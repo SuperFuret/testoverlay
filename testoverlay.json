@@ -2,14 +2,14 @@
   "contact": "",
   "templates": [
     {
-      "name": "OctoLadybug",
+      "name": "ladybug",
       "sources": [
         "https://i.imgur.com/4pGchsl.png"
       ],
       "x": 973,
       "y": 25
     }
- ],
+  ],
   "whitelist": [],
   "blacklist": []
 }
