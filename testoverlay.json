@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "OctoLadybug",
+      "sources": [
+        "https://i.imgur.com/4pGchsl.png"
+      ],
+      "x": 973,
+      "y": -241
+    }
+ ],
+  "whitelist": [],
+  "blacklist": []
+}
